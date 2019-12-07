@@ -6,6 +6,6 @@
 	<?php
 echo '¡Hola ' . htmlspecialchars($_GET["nombre"]) . '!';
 ?>
- <p>Hola mundo</p>
+ 
  </body>
 </html>
