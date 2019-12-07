@@ -4,7 +4,7 @@
  </head>
  <body>
 	<?php
-echo '¡Hola ' . htmlspecialchars($_GET["nombre"]) . '!';
+echo '¡Hola ' . htmlspecialchars($_GET["name"]) . '!';
 ?>
  
  </body>
